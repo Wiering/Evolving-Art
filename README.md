@@ -7,7 +7,7 @@ Each image is represented by a string of numbers. Each mutation is a change to o
 
 The images are meant to be size-independent, so if you maximize the window, you should get higher resolution versions of the same images (but generating larger images is slow).
 
-The idea is that you could use such images or textures in a game and not have to store them as images, but have the generator create them when needed from the string of numbers. For that to work, you'd need to be able to save that string, which wasn't implemented.
+The idea is that you could use such images or textures in a game and not have to store them as images, but have the generator create them when needed from the string of numbers (for that to work, you'd need to be able to save that string, which wasn't implemented here).
 
 Written in 2004 using Delphi 5.
 
