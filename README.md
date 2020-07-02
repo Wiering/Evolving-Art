@@ -21,3 +21,7 @@ After choosing an image, if you don't like any of the variations, press the righ
 ![screenshot1](https://github.com/Wiering/Evolving-Art/blob/master/screenshots/ea2.jpg?raw=true)
 
 ![screenshot1](https://github.com/Wiering/Evolving-Art/blob/master/screenshots/ea3.jpg?raw=true)
+
+## Haxe version
+
+This program has been rewritten in Haxe: https://github.com/Wiering/Random-Art-Evolver
